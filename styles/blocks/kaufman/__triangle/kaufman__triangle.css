@@ -4,7 +4,7 @@
   position: absolute;
   top: 0;
   right: -210px;
-  z-index: 0;
+  z-index: -1;
   transform: rotate(360deg);
   transition: transform 20s linear 2s;
   animation: rotation 20s linear 2s infinite normal forwards running;
