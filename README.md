@@ -9,8 +9,10 @@
 
 - HTML5
 - CSS3
-- БЭМ
+- Nested структура БЭМ
 - normalize.css
-- flex
-- grid
+- flex-box верстка
+- grid-layout
 - @keyframe
+- iframe
+- YouTube API
