@@ -2,7 +2,7 @@
   height: 890px;
   position: relative;
   background-color:#f2f2f2;
-  z-index: -1;
+  z-index: 0;
   /* background-image: url(../images/feynman.png);
   background-repeat: no-repeat;
   background-position: left bottom; */
