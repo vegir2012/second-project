@@ -77,11 +77,12 @@
 @import url(./blocks/footer/__columns/__author/footer__author.css);
 @import url(./blocks/footer/__columns/__column_content_info/footer__column_content_info.css);
 @import url(./blocks/footer/__columns/__column_heading/footer__column_heading.css);
-@import url(./blocks/footer/__columns/__list/footer__list.css);
+@import url(./blocks/footer/__list/footer__list.css);
 @import url(./blocks/footer/__columns/__column-links/footer__column_links.css);
 @import url(./blocks/footer/__columns/__column-links/__column_links_hover/footer__column_links_hover.css);
 @import url(./blocks/footer/__columns/__column_content_social/footer__column_content_social.css);
 @import url(./blocks/footer/__columns/__column_heading/footer__column_heading.css);
-@import url(./blocks/footer/__columns/__column_list/footer__column_list.css);
+@import url(./blocks/footer/__columns/__list/footer__list.css);
 @import url(./blocks/footer/__columns/__column-link/footer__column_link.css);
 @import url(./blocks/footer/__columns/__column-link/__column-link_hover/footer__column_link_hover.css);
+@import url(./blocks/footer/__social-icon/footer__social-icon.css);
